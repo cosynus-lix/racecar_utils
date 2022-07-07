@@ -1,0 +1,10 @@
+# Rename this file to config and paste in ~/.ssh/config
+
+Host car1
+	HostName 192.168.1.21
+	User nvidia
+
+Host car2
+	HostName 192.168.1.22
+	User nvidia
+
